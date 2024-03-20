@@ -1,0 +1,17 @@
+C:\Work\05ECI0064\ECI0064C\ECI0064\bin\Debug\net6.0-windows\ECI0064.exe
+C:\Work\05ECI0064\ECI0064C\ECI0064\bin\Debug\net6.0-windows\ECI0064.deps.json
+C:\Work\05ECI0064\ECI0064C\ECI0064\bin\Debug\net6.0-windows\ECI0064.runtimeconfig.json
+C:\Work\05ECI0064\ECI0064C\ECI0064\bin\Debug\net6.0-windows\ECI0064.dll
+C:\Work\05ECI0064\ECI0064C\ECI0064\bin\Debug\net6.0-windows\ECI0064.pdb
+C:\Work\05ECI0064\ECI0064C\ECI0064\obj\Debug\net6.0-windows\ECI0064.Form1.resources
+C:\Work\05ECI0064\ECI0064C\ECI0064\obj\Debug\net6.0-windows\ECI0064.Properties.Resources.resources
+C:\Work\05ECI0064\ECI0064C\ECI0064\obj\Debug\net6.0-windows\ECI0064.csproj.GenerateResource.cache
+C:\Work\05ECI0064\ECI0064C\ECI0064\obj\Debug\net6.0-windows\ECI0064.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\05ECI0064\ECI0064C\ECI0064\obj\Debug\net6.0-windows\ECI0064.AssemblyInfoInputs.cache
+C:\Work\05ECI0064\ECI0064C\ECI0064\obj\Debug\net6.0-windows\ECI0064.AssemblyInfo.cs
+C:\Work\05ECI0064\ECI0064C\ECI0064\obj\Debug\net6.0-windows\ECI0064.csproj.CoreCompileInputs.cache
+C:\Work\05ECI0064\ECI0064C\ECI0064\obj\Debug\net6.0-windows\ECI0064.dll
+C:\Work\05ECI0064\ECI0064C\ECI0064\obj\Debug\net6.0-windows\refint\ECI0064.dll
+C:\Work\05ECI0064\ECI0064C\ECI0064\obj\Debug\net6.0-windows\ECI0064.pdb
+C:\Work\05ECI0064\ECI0064C\ECI0064\obj\Debug\net6.0-windows\ECI0064.genruntimeconfig.cache
+C:\Work\05ECI0064\ECI0064C\ECI0064\obj\Debug\net6.0-windows\ref\ECI0064.dll
